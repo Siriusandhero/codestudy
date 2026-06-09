@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+
+# Nginx runtime files
+nginx-*/logs/
+nginx-*/nginx-*.pid
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
